@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaduva
 - 👀 I’m interested in ... software engineering
-- 🌱 I’m currently learning ... UNIX/LINUX
+- 🌱 I’m currently learning ... Android Studio and ARM
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... zaduva@gmail.com
 
