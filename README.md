@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @zaduva
-- 👀 I’m interested in ... software engineering
-- 🌱 I’m currently learning ... Web Development and SQL
-- 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ... zaduva@gmail.com
+Hi I'm Zach! I just recently graduated with my Master's in Computer Science this past December. I am really interested in Machine Learning and AI, as well as cloud services and security. I am currently seeking employment to start my career. I have experience using Java, Python, JavaScript and C languages and use technologies, frameworks and libraries such as HTML, CSS, PostgresSQL, Node.js, Express.js, React.js, jQuery, Mongodb, pandas, NumPy, REST.  I enjoy working and solving complex projects and finding a well organized solution.
 
-<!---
-zaduva/zaduva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
